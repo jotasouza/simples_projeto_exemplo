@@ -1,3 +1,3 @@
-# Repositório simples HTML
+# Repositório simples para exercício
 
 ### Exercício simples projeto exemplo
